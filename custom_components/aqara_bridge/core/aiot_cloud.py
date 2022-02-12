@@ -17,9 +17,9 @@ API_DOMAIN = {
     "GER": "open-ger.aqara.com",
 }
 
-APP_ID = "88110776288481280040ace0"
-KEY_ID = "K.881107763014836224"
-APP_KEY = "t7g6qhx4nmbeqmfq1w6yksucnbrofsgs"
+APP_ID = "904873530905231360d11fd4"
+KEY_ID = "K.904873531119140864"
+APP_KEY = "lfc2lrpuz5h9s609v7wkwdj37s7xzc6a"
 
 
 def get_random_string(length: int):
