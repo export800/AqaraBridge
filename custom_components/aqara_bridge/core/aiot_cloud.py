@@ -18,8 +18,8 @@ API_DOMAIN = {
 }
 
 APP_ID = "904873530905231360d11fd4"
-KEY_ID = "K.904873531119140864"
-APP_KEY = "lfc2lrpuz5h9s609v7wkwdj37s7xzc6a"
+KEY_ID = "K.904873531416936450"
+APP_KEY = "yohz81pyn3bui8cfhrud6qr3vs56q1dp"
 
 
 def get_random_string(length: int):
